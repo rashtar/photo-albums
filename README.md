@@ -7,7 +7,7 @@ Hello and welcome to my project! This application is a simple react web applicat
 ## Demo
 
 The application is deployed on my personal website, you may find it on
-`www.ramiashtar.com/apps/photos`
+https://www.ramiashtar.com/apps/photos
 
 ## Setup
 
