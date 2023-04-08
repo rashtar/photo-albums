@@ -6,8 +6,8 @@ Hello and welcome to my project! This application is a simple react web applicat
 
 ## Demo
 
-The application is deployed on my personal website, you may find it on
-https://www.ramiashtar.com/apps/photos
+You may find a deployed version of the application here:
+https://rashtar.github.io/photo-albums/
 
 ## Setup
 
